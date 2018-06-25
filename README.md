@@ -1,3 +1,5 @@
+Sample code - TestConsoleApplication1/Program.cs
+
 Prerequistes: (they can all be installed in visual studio NuGet Package Manager)
 1. Microsoft.SharePoint.Client
 2. Microsoft.SharePoint.Client.UserProfiles
